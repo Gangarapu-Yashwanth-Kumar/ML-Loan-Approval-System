@@ -8,7 +8,7 @@ Tired of lengthy loan applications and endless waiting? This project is your dig
 
 * **Multi-Model ML Powerhouse**: Not just one, but a **squad of diverse machine learning models** (Logistic Regression, KNN, SVM, Decision Trees, Random Forest, Gradient Boosting, XGBoost, and AdaBoost!) battle it out to give you the most reliable prediction. 🧠💪
 * **Intuitive Web Interface**: A sleek Flask web app makes loan forecasting as easy as 1-2-3. Just plug in the details and hit "Predict"! 💻✨
-* **Real-time Insights**: Get instant "Approved" or "Rejected" verdicts, allowing for rapid decision-making. ⚡️
+* **Real-time Insights**: Get instant "Approved" or "Rejected" verdicts, allowing for rapid decision-making.. ⚡️
 * **Robust Input Handling**: Smart validation ensures your inputs are correct, preventing common errors. 🛡️
 * **Seamless Model Integration**: Our backend effortlessly loads and deploys the best-performing models directly from the training notebook. 🔗
 
